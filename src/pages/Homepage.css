@@ -1,0 +1,104 @@
+@media only screen and (max-width: 600px) {
+    .text h1{
+        margin-top: 20px;
+        /* font-family: "Poppins", sans-serif; */
+        font-weight: 100;
+        /* font-style: normal; */
+        font-size: 25px;
+    }
+    .text{
+        margin-top: 160px;
+    }
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.text{
+    margin-top: 170px;
+    
+    }
+    .text h1{
+        margin-top: 20px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        font-size: 60px;
+    }
+    
+    
+    
+    .experties{
+        border-bottom: 1px solid silver;
+        /* padding-bottom: 40px; */
+    
+    }
+    .whatappbtn{
+        
+        padding: 15px;
+        border: 1px solid black;
+        width: fit-content;
+        border-radius: 10px;
+    }
+    .whatappbtn a{
+        margin-top: 30px;
+        text-decoration: none;
+        font-size: 18px;
+        color: black;
+    }
+    .whatappbtn:hover{
+        background-color: black;
+       
+    }
+    .whatappbtn:hover a{
+        color: white;
+    }
+    .logos img{
+        width: 50%;
+        margin-top: 10px;
+    }
+    .picr{
+        border-radius: 10px;
+        margin-bottom: 15px;
+        overflow: hidden;
+    }
+    
+    .picr img{
+        width: 100%;
+        border-radius: 10px;
+        transition: transform  .4s;
+        
+    }
+    .carddd:hover img{
+        transform: scale(1.1) ;
+    
+    }
+    .carddd:hover h4{
+        color: rgb(237, 85, 23);
+    }
+    .footer li{
+        list-style: none;
+        padding-left: 20px;
+        cursor: pointer;
+    }
+    .footer li a{
+        text-decoration: none;
+        color: black;
+        cursor: pointer;
+        
+    }
+    
+    
+    .leftb{
+        background: linear-gradient(to bottom, red, white);
+        height: 50vh;
+    }
+    .leftb{
+        background: linear-gradient(to bottom,rgb(12, 12, 12), white);
+        height: 50vh;
+    }
+    
+    
+    
+    

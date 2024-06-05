@@ -1,0 +1,30 @@
+{
+  "name": "solutionave",
+  "version": "1.0.0",
+  "private": true,
+  "description": "solutionave",
+  "author": "Sheraz1111",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/icons-material": "^5.15.18",
+    "@mui/material": "^5.15.18",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.3",
+    "gatsby": "^5.13.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-fast-marquee": "^1.6.4",
+    "react-simple-typewriter": "^5.0.1"
+  }
+}
